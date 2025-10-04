@@ -1,0 +1,60 @@
+{
+    "knowledge":[
+        {
+            "id": "k1",
+            "question": "Which part of the plant makes seeds?",
+            "choices": ["Stem", "Flower", "Root", "Leaf"],
+            "answer": 1
+        },
+        {
+            "id": "k2",
+            "question": "Which of these is a solid?",
+            "choices": ["Water", "Ice", "Steam", "Juice"],
+            "answer": 1
+        },
+        {
+            "id": "k3",
+            "question": "What do plants need for photosynthesis?",
+            "choices": ["Sunlight", "Rocks", "Sound", "Darkness"],
+            "answer": 0
+        },
+        {
+            "id": "k4",
+            "question": "What gas do humans need to breathe?",
+            "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+            "answer": 0
+        },
+        {
+            "id": "k5",
+            "question": "Which planet is called the Red Planet?",
+            "choices": ["Venus", "Earth", "Mars", "Jupiter"],
+            "answer": 2
+        }
+    ],
+    
+    "learning_style":[
+        {
+            "id": "ls1",
+            "question": "How do you prefer learning new things?",
+            "choices": ["Watching a video", "Reading a book", "Doing an experiment"]
+        },
+        {
+            "id": "ls2",
+            "question": "What helps you remember better?",
+            "choices": ["Pictures", "Listening", "Hands-on practice"]
+        }
+    ],
+    "interests":[
+        {
+            "id": "i1",
+            "question": "Which excites you more?",
+            "choices": ["Space", "Animals"]
+        },
+        {
+            "id": "i2",
+            "question": "Which would you enjoy more?",
+            "choices": ["Building things", "Drawing or storytelling"]
+        }
+    ]
+}
+
